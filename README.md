@@ -17,8 +17,9 @@ plateforme-pour-la-gestion-administrative-de-BrainTrain-Academy   BrainTrain
 
 
 ###Demo
-[![Watch the demo(https://github.com/user-attachments/assets/2827b991-9abe-40fb-b9da-8839c3fb6fd5)](https://github.com/user-attachments/assets/9c39e5e2-6825-4579-bbd7-22034f7d8b9a)
-(https://github.com/user-attachments/assets/7c811062-845c-4b68-9dd2-529b0bd3b708)](https://github.com/user-attachments/assets/0eaeb408-446c-4ba0-bc25-f5efc37a88e5)
+[![Watch the demo](https://github.com/user-attachments/assets/2827b991-9abe-40fb-b9da-8839c3fb6fd5)](https://github.com/user-attachments/assets/9c39e5e2-6825-4579-bbd7-22034f7d8b9a)
+
+[![Watch the demo](https://github.com/user-attachments/assets/7c811062-845c-4b68-9dd2-529b0bd3b708)](https://github.com/user-attachments/assets/0eaeb408-446c-4ba0-bc25-f5efc37a88e5)
 
 ## Screenshots
 
