@@ -15,14 +15,19 @@ plateforme-pour-la-gestion-administrative-de-BrainTrain-Academy   BrainTrain
    ```bash
    npm start
 
+
 ###Demo
-[![Watch the demo](https://github.com/user-attachments/assets/17039f91-2b49-4126-a728-ebdaa9db3477)](https://github.com/user-attachments/assets/3ac71d45-7c5f-4747-84c5-c5cc31feb32e)
+[![Watch the demo(https://github.com/user-attachments/assets/2827b991-9abe-40fb-b9da-8839c3fb6fd5)](https://github.com/user-attachments/assets/9c39e5e2-6825-4579-bbd7-22034f7d8b9a)
+(https://github.com/user-attachments/assets/7c811062-845c-4b68-9dd2-529b0bd3b708)](https://github.com/user-attachments/assets/0eaeb408-446c-4ba0-bc25-f5efc37a88e5)
 
 ## Screenshots
 
-### page de publication
-(https://github.com/user-attachments/assets/17039f91-2b49-4126-a728-ebdaa9db3477)
+### page d'utilisateur
+(https://github.com/user-attachments/assets/4592ba37-2094-4e27-8073-db4d3d68571f)
 
-### page d’affichage des services
-(https://github.com/user-attachments/assets/162d45df-659a-432e-b6da-d2c7317b7302)
+
+### page de Messagerie avec le formateur
+(https://github.com/user-attachments/assets/b54a5ca8-2a85-424d-ab7d-52d513d491d5)
+
+
 
