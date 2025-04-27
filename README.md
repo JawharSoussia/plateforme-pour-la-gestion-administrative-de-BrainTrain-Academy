@@ -16,7 +16,7 @@ plateforme-pour-la-gestion-administrative-de-BrainTrain-Academy   BrainTrain
    npm start
 
 ###Demo
-[![Watch the demo(https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/3ac71d45-7c5f-4747-84c5-c5cc31feb32e)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/3ac71d45-7c5f-4747-84c5-c5cc31feb32e)
 
 ## Screenshots
 
